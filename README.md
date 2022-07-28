@@ -4,4 +4,4 @@
 
 
 ### <p align="left"> `/connections/var/list/social_media = list (` 
- <a href="https://twitter.com/kosolov325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Comicao1" height="10" width="10" /></a>
+ <a href="https://twitter.com/kosolov325" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Comicao1" height="40" width="40" /></a>
